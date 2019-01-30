@@ -1,0 +1,4 @@
+#Tue Jan 29 20:15:17 IST 2019
+base.0=/home/amandeeparora/Downloads/flutter_app_pdf/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

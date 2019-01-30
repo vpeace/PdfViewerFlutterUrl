@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:pdf_viewer_plugin] /home/amandeeparora/Downloads/flutter_app_pdf/build/pdf_viewer_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/amandeeparora/Downloads/flutter_app_pdf/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/853aaeb0e566eb75cabd6eec30369ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.2.aar/deaadcaf82b8b11396da94d2d49d3804/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/2ef95ca296a593515b63ae2b60c9a48e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b980e6f0eecfa1c9904a1770d9565e6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ee0c04adaf515e194c3d2fb4263226cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/28242c36b9cba227f1660d5ceda573f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9496939bde9f342e98ce013854d3bb11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0d7bb10f7804c9c3dcc951a1065c906/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d44c1effcc128b7c3d90ca5a3885ed4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99c4d7c890288ae296fe981072781488/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4ea5e318e909286b2afdf51920778e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a22149d9b58f92bf45de497192e0e53/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dd4ba77adf9eaa29fd52cb31478a166/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:icon
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.flutterapppdf.MainActivity
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+MERGED from [:pdf_viewer_plugin] /home/amandeeparora/Downloads/flutter_app_pdf/build/pdf_viewer_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:pdf_viewer_plugin] /home/amandeeparora/Downloads/flutter_app_pdf/build/pdf_viewer_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/amandeeparora/Downloads/flutter_app_pdf/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/amandeeparora/Downloads/flutter_app_pdf/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/853aaeb0e566eb75cabd6eec30369ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/853aaeb0e566eb75cabd6eec30369ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.2.aar/deaadcaf82b8b11396da94d2d49d3804/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-2.8.2.aar/deaadcaf82b8b11396da94d2d49d3804/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/2ef95ca296a593515b63ae2b60c9a48e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.7.1.aar/2ef95ca296a593515b63ae2b60c9a48e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b980e6f0eecfa1c9904a1770d9565e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b980e6f0eecfa1c9904a1770d9565e6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ee0c04adaf515e194c3d2fb4263226cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ee0c04adaf515e194c3d2fb4263226cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/28242c36b9cba227f1660d5ceda573f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/28242c36b9cba227f1660d5ceda573f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9496939bde9f342e98ce013854d3bb11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9496939bde9f342e98ce013854d3bb11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0d7bb10f7804c9c3dcc951a1065c906/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f0d7bb10f7804c9c3dcc951a1065c906/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d44c1effcc128b7c3d90ca5a3885ed4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8d44c1effcc128b7c3d90ca5a3885ed4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99c4d7c890288ae296fe981072781488/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/99c4d7c890288ae296fe981072781488/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4ea5e318e909286b2afdf51920778e0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4ea5e318e909286b2afdf51920778e0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a22149d9b58f92bf45de497192e0e53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4a22149d9b58f92bf45de497192e0e53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dd4ba77adf9eaa29fd52cb31478a166/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0dd4ba77adf9eaa29fd52cb31478a166/AndroidManifest.xml:20:5-44
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amandeeparora/Downloads/flutter_app_pdf/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/fa04aa25f3c6f745ef6593699efdd342/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /home/amandeeparora/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/dc960737f4851de146b3fa26ca932d57/AndroidManifest.xml:26:9-47
