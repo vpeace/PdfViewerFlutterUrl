@@ -6,4 +6,4 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-This app is used t open a pdf from a remote resource
+This app is used to open a pdf from a remote resource
